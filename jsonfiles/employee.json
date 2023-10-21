@@ -1,0 +1,17 @@
+{
+	
+	"firstname":"sachin",
+	"lastname":"Tendulkar",
+	"address":[
+		{
+			"street":"abc",
+			"city":"hyderabad",
+			"state":"TS"
+		},
+		{
+			"street":"ashoka street",
+			"city":"chennai",
+			"state":"TN"
+		}
+	]
+}
